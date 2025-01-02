@@ -18,11 +18,11 @@
     <meta property="og:description"
           content="Pořádání akcí v japonském stylu, kreativní studio, design a aplikace augmentované reality pro mobilní zařízení. Michal Hotovec, Vladimír Hotovec, LaPixla">
 
-    <meta name="twitter:card" content="summary" />
-    <meta name="twitter:title" content="Hotovec.eu" />
+    <meta name="twitter:card" content="summary"/>
+    <meta name="twitter:title" content="Hotovec.eu"/>
     <meta name="twitter:description"
-          content="Pořádání akcí v japonském stylu, kreativní studio, design a aplikace augmentované reality pro mobilní zařízení. Michal Hotovec, Vladimír Hotovec, LaPixla" />
-    <meta name="twitter:image" content="http://www.michalhotovec.com/assets/images/hotovec-eu.jpg" />
+          content="Pořádání akcí v japonském stylu, kreativní studio, design a aplikace augmentované reality pro mobilní zařízení. Michal Hotovec, Vladimír Hotovec, LaPixla"/>
+    <meta name="twitter:image" content="http://www.michalhotovec.com/assets/images/hotovec-eu.jpg"/>
 
 
     <link rel="stylesheet" href="/assets/css/main.css">
@@ -40,7 +40,6 @@
         <h1 itemprop="name">Hotovec.eu</h1>
 
         <div class="m-sub">
-
             <div class="m-sub--section" itemscope itemtype="http://schema.org/Person">
                 <div class="m-avatar">
                     <img src="/assets/images/vladimir-hotovec.jpg" alt="Vladimír Hotovec" title="Vladimír Hotovec"
@@ -106,7 +105,6 @@
         </div>
     </div>
 </div>
-
 
 </body>
 </html>
