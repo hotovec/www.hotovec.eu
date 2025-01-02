@@ -1,0 +1,15 @@
+{
+  "name": "hotovec/hotovec.eu",
+  "description": "Simple website",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Michal Hotovec",
+      "email": "michal.hotovec@gmail.com"
+    }
+  ],
+  "require": {
+    
+  }
+}
